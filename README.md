@@ -1,2 +1,4 @@
 # LearningGit
-<h1>Starting to learn how to work with git</h1>
+<h2>Starting to learn how to work with git.</h2>
+<br>
+Author ~ Neeraj Sharma
