@@ -30,4 +30,9 @@ Author ~ Neeraj Sharma
     git commit -m "some message" <br>
     it is the record of your changes<br>
 </h2>
+<h2>
+    <b>5th Command :<b><br>
+    git push origin main <br>
+    Apne local system par humne jo bhi changes kare hote hain unko dakka dekar github ke upar bhej dete hain<br>
+</h2>
 
