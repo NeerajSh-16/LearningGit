@@ -71,5 +71,38 @@ Author ~ Neeraj Sharma
     To delete the specified branch<br>
     <b>NOTE : </b> You should not be on that branch while trying to delete that branch otherwise you will get error
 </h2>
+<h2>
+    <b>12th Command :<b><br>
+    git push origin featureX (other than master) <br>
+    To publish the code that you have written on the branch feature 1<br>
+</h2>
+<h2>
+    <b>13th Command :<b><br>
+    git pull origin master <br>
+    To fetch and download content from a remote repo and immediately upadte the local repo to match that content<br>
+</h2>
+<br>
+<h2>
+    <u>Now, we'll see how to merge two brnches</u><br>
+</h2>
+<h2>
+    Method 1
+</h2>
+<ul>
+    <li>
+        git diff <-branch name-><br>
+        (used to compare commits, branches and more)
+    </li>
+    <li>
+        git merge <-branch name->
+    </li>
+</ul>
+<h2>
+    Method 2
+</h2>
+<h3>
+    By creating a Pull Request
+</h3>
+<br>
 
 
