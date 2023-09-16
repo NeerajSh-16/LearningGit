@@ -11,7 +11,6 @@ Author ~ Neeraj Sharma
 <h2>
     <b>2nd commad : <b><br>
     git status<br>
-    There are 4 types of status for a file<br>
     <ol>
     There are 4 types of status for a file<br>
     <li><b>Untracked</b> : New file that git doesn't track yet</li>
