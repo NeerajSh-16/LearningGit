@@ -48,7 +48,7 @@ Author ~ Neeraj Sharma
     <b>7th Command :<b><br>
     git remote <br>
     In Git, the term remote is concerned with the remote repository. It is a shared repository that all team members use to exchange their changes.<br>
-    For more information about this command visit <a href="https://www.javatpoint.com/git-remote"><i>Git Remote Info</i></a>
+    For more information about this command visit <a href="https://www.javatpoint.com/git-remote" target="_blank"><i>Git Remote Info</i></a>
 </h2>
 <h2>
     <b>8th Command :<b><br>
